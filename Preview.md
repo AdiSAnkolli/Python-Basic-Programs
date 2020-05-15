@@ -12,3 +12,9 @@ Checking Armstrong condition, that is :-
 = 1 + 125 + 27
 = 153..!!!
 ( Honestly, the code was way easier than the explanation!!!!)
+
+
+2) Patterns:-
+As simple and basic as it may be, you got to admit that patterns have their own flair!
+Be it as simple as a Floyd's triangle, or a hollow triangle made from stars, it's fun. This is a very simple one which makes use of the for loop, to print a simple number triangle.
+And well, speaking of patterns, it can also get as complex as 'rabbit hopping in the woods' animation!! (Do check that one out too!!!)
