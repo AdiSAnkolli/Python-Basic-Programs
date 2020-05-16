@@ -25,5 +25,9 @@ Factorial of a positive integer is basically the product of all positive integer
 There are 3 ways (possibly more) to calculate factorial of a number using python
 (i) Recursion 
 (ii) Iterative (using loop)
-(iii) Direct function available in math library
+(iii) Direct function available in math library.
 I've done all three ways in the same file for convinience.
+
+
+4) Prime Numbers:-
+Simple program to calculate prime numbers from a given range of numbers.
