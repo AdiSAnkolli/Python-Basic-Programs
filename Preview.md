@@ -18,3 +18,12 @@ Checking Armstrong condition, that is :-
 As simple and basic as it may be, you got to admit that patterns have their own flair!
 Be it as simple as a Floyd's triangle, or a hollow triangle made from stars, it's fun. This is a very simple one which makes use of the for loop, to print a simple number triangle.
 And well, speaking of patterns, it can also get as complex as 'rabbit hopping in the woods' animation!! (Do check that one out too!!!)
+
+
+3) Factorial:-
+Factorial of a positive integer is basically the product of all positive integers less than or equal to the number, and is denoted by '!'.
+There are 3 ways (possibly more) to calculate factorial of a number using python
+(i) Recursion 
+(ii) Iterative (using loop)
+(iii) Direct function available in math library
+I've done all three ways in the same file for convinience.
